@@ -1,0 +1,120 @@
+1.01,Kit Kat,2.37,Candy and Chocolate
+1.02,Arrow,2.36,Candy and Chocolate
+1.03,Coffee Crisp,3.33,Candy and Chocolate
+1.04,Hershey’s Milk Chocolate Bar,1.54,Candy and Chocolate
+1.05,Reese’s Peanut Butter Cups,2.03,Candy and Chocolate
+1.06,Mars,2.15,Candy and Chocolate
+1.07,Snickers,2.15,Candy and Chocolate
+1.08,Twix,2.24,Candy and Chocolate
+1.09,Bounty,1.54,Candy and Chocolate
+1.10,Skittles,1.98,Candy and Chocolate
+1.11,Gummy Bears,3.97,Candy and Chocolate
+1.12,Gummy Worms,3.97,Candy and Chocolate
+1.13,Sour Patch Kids,2.47,Candy and Chocolate
+1.14,Starbursts,2.77,Candy and Chocolate
+1.15,Candy Canes,2.27,Candy and Chocolate
+2.01,iPhone 14,1099,Electronics
+2.02,iPhone 13,849,Electronics
+2.03,AirPods,239,Electronics
+2.04,AirPods Pros,329,Electronics
+2.05,AirPods Max,779,Electronics
+2.06,iPad (10th Gen),599, Electronics
+2.07,MacBook Air,1499,Electronics
+2.08,MacBook Pro,2499,Electronics
+2.09,Bose QuietComfort 45 Headphones,329,Electronics
+2.10,Sony WH-1000XM4 Noise-Cancelling Headphones,329.99,Electronics
+2.11,Apple Wired Earphones,24.94,Electronics
+2.12,Mini Projector,83.40,Electronics
+2.13,Samsung 65” 4K TV,899.99,Electronics
+2.14,Beats Pill+ Portable Bluetooth Speaker,504.95,Electronics
+2.15,Bose SoundLink Flex Speaker,169,Electronics
+3.01,Catan,59.99,Toys and Games
+3.02,Uno,7.97,Toys and Games
+3.03,Poker,87.08,Toys and Games
+3.04,Cards,3,Toys and Games
+3.05,Sorry,24.99,Toys and Games
+3.06,Monopoly,15.98,Toys and Games
+3.07,Clue,16.89,Toys and Games
+3.08,Game of Life,34.99,Toys and Games
+3.09,LEGO Eiffel Tower,629.99,Toys and Games
+3.10,LEGO F1 McLaren Car,199.99,Toys and Games
+3.11,Barbie Dreamhouse Playset,224.99,Toys and Games
+3.12,Barbie Camper,99.99,Toys and Games
+3.13,Paw Patrol Chase Ride and Rescue,34.99,Toys and Games
+3.14,Nerf Elite 2.0 Shockwave RD-15 Blaster,42.99,Toys and Games
+3.15,Nerf Ultra Strike Motorized Blaster,79.99,Toys and Games
+4.01,Sephora Clean Eye Mask,5,Personal Care
+4.02,Laneige Lip Sleeping Mask,29,Personal Care
+4.03,Lush Bath Bomb,8.25,Personal Care
+4.04,Olaplex Hair Mask,41,Personal Care
+4.05,Versace Mini Perfume Set,52,Personal Care
+4.06,Self Care Sampler Set,38,Personal Care
+4.07,innisfree Pore Clearing Clay Mask,19,Personal Care
+4.08,KRIAA 12 Essential Oils Set,29.99,Personal Care
+4.09,ASAKUKI Essential Oil Diffuser,224.95,Personal Care
+4.10,Lori Multi Speed Percussion Massage Gun,79.97,Personal Care
+4.11,Yves Saint Laurent Libre Eau De Parfum Holiday Gift Set,185,Personal Care
+4.12,Lance Holiday Beauty Box,115,Personal Care
+4.13,Luxury Bath Accesorices Gift Set,5.98,Personal Care
+4.14,Every Man Jack Sandalwood Beard Gift Set,14.98,Personal Care
+4.15,Aromatherapy Eye Pillow,48,Personal Care
+5.01,Weighted Blanket,269,Home Decor
+5.02,Fluffy Blanket,27.99,Home Decor
+5.03,Vanilla Candle,26.95,Home Decor
+5.04,Lavender Candle,14.50,Home Decor
+5.05,Cheese Board,79,Home Decor
+5.06,Linen Duvet Cover,191,Home Decor
+5.07,Fancy Chess Set,142.61,Home Decor
+5.08,Wooden Chess Set,39.99,Home Decor
+5.09,UGG Polar Body Pillow,39.99,Home Decor
+5.10,Luxury Globe,39.99,Home Decor
+5.11,Grecian Bust Bookends,58,Home Decor
+5.12,Gold Triceratops Bookends,69.99,Home Decor
+5.13,Chess Pieces Bookends,38.08,Home Decor
+5.14,Tiny Record Coasters,13.38,Home Decor
+5.15,Light Grey Stoneware Dinner Set (18 Pieces),79.99,Home Decor
+6.01,Hoodie,50,Clothes
+6.02,3/4 Zip Sweater,47.97,Clothes
+6.03,Crewneck Sweatshirt,29.99,Clothes
+6.04,Long Sleeve Shirt,14.99,Clothes
+6.05,Short Sleeve T-Shirt,12.99,Clothes
+6.06,PJ’s,44.95,Clothes
+6.07,Sweatpants,32.97,Clothes
+6.08,Fuzzy Socks (4 pack),7.90,Clothes
+6.09,Baseball Hat,38,Clothes
+6.10,Beanie,34.90,Clothes
+6.11,Raptors Jersey,130,Clothes
+6.12,Maple Leafs Jersey,90.99,Clothes
+6.13,Blue Jays Jersey,69.99,Clothes
+6.14,Argentina Soccer Jersey,79.99,Clothes
+6.15,France Soccer Jersey,69.99,Clothes
+7.01,Nike Air Force 1,145,Shoes
+7.02,Nike Air Jordan 1,165,Shoes
+7.03,Nike Jordan Retro 13,200,Shoes
+7.04,Nike Air Max 270,210,Shoes
+7.05,Nike Luka 1,145,Shoes
+7.06,Nike Air Max 97,175,Shoes
+7.07,Converse Chuck Low Top,75,Shoes
+7.08,Vans Old Skool Platform,90,Shoes
+7.09,Adidas Stan Smith,190,Shoes
+7.10,Adidas Slides,45,Shoes
+7.11,Adidas Ultraboost 22,250,Shoes
+7.12,Adidas NMD_R1 Primeblue,200,Shoes
+7.13,Timberland Premium Waterproof Boots,220,Shoes
+7.14,UGG Classic Short II,200,Shoes
+7.15,UGG Slippers,104.96,Shoes
+8.01,Pandora Sparkling Infinity Stud Earrings,40,Jewellery
+8.02,Pandora Birthstone Ring,55,Jewellery
+8.03,Pandora Cable Chain Necklace,65,Jewellery
+8.04,Pandora Sparkling Slider Tennis Bracelet,185,Jewellery
+8.05,Swarovski Cosmopolitan Watch,300,Jewellery
+8.06,Swarovski Attract Watch,300,Jewellery 
+8.07,Swarovski Stone Hoop Earrings,79,Jewellery
+8.08,Kate Spade Yours Truly Necklace,35,Jewellery
+8.09,Coach Heart Pendant,35.20,Jewellery
+8.10,Swarovski Infinity and Heart Bracelet,95,Jewellery
+8.11,Layered Circle Cluster and Gem Necklace,22.95,Jewellery
+8.12,Michael Hill Mini Knots Necklace,94,Jewellery
+8.13,Swarovski Birthstone Pendant,87.50,Jewellery
+8.14,Michael Hill Leaf Ring,49,Jewellery
+8.15,Pandora Marvel Infinity Stones Ring,110,Jewellery
